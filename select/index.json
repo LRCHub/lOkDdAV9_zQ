@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "シクラメンが咲く頃",
+  "base_artist": "AKB48",
+  "createdAt": "2025-12-30T13:01:47.271227Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シクラメンが咲く頃",
+      "artist": "AKB48",
+      "has_synced": false,
+      "path": "select/pl_01_シクラメンが咲く頃_AKB48.txt"
+    }
+  ]
+}
